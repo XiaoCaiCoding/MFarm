@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75bccf6b439582e42ad37faed157713d, type: 3}
+  m_Name: MapData_Field
+  m_EditorClassIdentifier: 
+  sceneName: 01.Field
+  gridWidth: 116
+  gridHeight: 29
+  originX: -87
+  originY: -17
+  tileProperties:
+  - tileCoordinate: {x: -87, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -86, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -85, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -84, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -83, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -82, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -81, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -80, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -79, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -78, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -77, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -76, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -75, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -74, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -73, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -72, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -71, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -70, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -69, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -68, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -67, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -66, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -65, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -64, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -63, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -62, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -61, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -60, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -59, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -58, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -57, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -56, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -55, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -54, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -53, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -52, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -51, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -50, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -49, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -48, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -47, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -46, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -45, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -44, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -43, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -42, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -41, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -40, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -39, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -38, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -37, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -36, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -35, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -34, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -33, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -32, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -31, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -30, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -29, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -28, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -27, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -26, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -25, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -24, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -23, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -22, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -21, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -20, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -19, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -18, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -17, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -16, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -15, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -14, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -13, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -12, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 4}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 5}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 6}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 7}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 8}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 9}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 10}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: -11, y: 11}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 4}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 5}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 6}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 7}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 8}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 9}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 10}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 4, y: 11}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 5, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 6, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 7, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 8, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 9, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 10, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 11, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 12, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 13, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 14, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 15, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 16, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 17, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 18, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 19, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 20, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 21, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 22, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 23, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 24, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 25, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 26, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 27, y: 3}
+    gridType: 3
+    boolTypeValue: 1
+  - tileCoordinate: {x: 28, y: 3}
+    gridType: 3
+    boolTypeValue: 1
